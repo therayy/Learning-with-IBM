@@ -13,6 +13,9 @@ LEARNING WITH IBM
 - Introduction to Cloud https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/course/
 - Introduction to Containers, Kubernetes, and OpenShift https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0201EN+2020_T2/course/
 - Docker Essentials: A Developer Introduction https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1/course/
+- TechZone: https://techzone.ibm.com/
+- IBM Technical Specialist: https://w3.ibm.com/w3publisher/ibm-technical-specialist-profession/certification
+- Sales Play: https://yourlearning.ibm.com/activity/PLAN-D5DBB51CEA0A
 # Cloud Pak learning collections are now available:
 - AIOps https://yourlearning.ibm.com/activity/ITS-DL69808G
 - CSM - Cloud Pak for Integration https://yourlearning.ibm.com/activity/ITS-DL69805G
@@ -33,3 +36,4 @@ LEARNING WITH IBM
 - Kubernetes https://www.udemy.com/course/learn-kubernetes/learn/lecture/9742476?start=0#overview
 - Jenkins https://www.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/13714010?start=0#overview
  
+# Additional tools training.
