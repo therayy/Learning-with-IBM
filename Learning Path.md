@@ -36,7 +36,7 @@ ___________________________________________________________
 - AIOps
     - https://yourlearning.ibm.com/activity/ITS-DL69808G
 ___________________________________________________________ 
-# Tekton:
+
 ___________________________________________________________
 - Overview: https://tekton.dev/docs/overview/ 
 - Build Tekton Pipeline: https://developer.ibm.com/tutorials/tekton-pipeline-deploy-a-mobile-app-backend-openshift-4/
@@ -50,7 +50,7 @@ ___________________________________________________________
         -  https://github.com/blues-man/vote-app-gitops
         -  https://www.youtube.com/watch?v=l0p8tLdEgt0 
 ___________________________________________________________ 
-# Udemy courses.
+# Udemy courses:
 ___________________________________________________________ 
 - Docker: https://www.udemy.com/course/learn-docker/learn/lecture/7838182?start=15#overview
 - Ansible: https://www.udemy.com/course/learn-ansible/learn/lecture/11035270?start=0#overview
