@@ -32,7 +32,19 @@ ___________________________________________________________
     - https://ec.yourlearning.ibm.com/w3/playback/10201110
 - AIOps
     -  https://yourlearning.ibm.com/activity/ITS-DL69808G
-
+# Tekton:
+___________________________________________________________
+- Overview: https://tekton.dev/docs/overview/ 
+- Build Tekton Pipeline: https://developer.ibm.com/tutorials/tekton-pipeline-deploy-a-mobile-app-backend-openshift-4/
+- CI/CD Demo with Tekton and ArgoCD on OpenShift: 
+        - https://github.com/siamaksade/openshift-cicd-demo 
+        - https://demo.openshift.com/en/latest/argocd/
+- OpenShift CI/CD demo with Tekton and Argo CD:
+        -  https://github.com/siamaksade/openshift-cicd-demo
+        -  https://demo.openshift.com/en/latest/gitops-with-cicd/
+- OpenShift GitOps Demo (Tekton + Argo CD):
+        -  https://github.com/blues-man/vote-app-gitops
+        -  https://www.youtube.com/watch?v=l0p8tLdEgt0 
 # Udemy courses:
 ___________________________________________________________ 
 - Docker https://www.udemy.com/course/learn-docker/learn/lecture/7838182?start=15#overview
