@@ -1,4 +1,4 @@
-# _________________________ LEARNING WITH IBM _________________________ 
+# ________ LEARNING WITH IBM ________ 
 # Red Hat
 - D0180 - Red Hat learning Containers, Kubernates & Openshift https://rol.redhat.com/rol/app/courses/do180-4.5/pages/apa
 - D0400 - Red Hat DevOps Pipelines and processes: CI/CD with Jenkins, Git, and Test-driven Development (TDD) https://rol.redhat.com/rol/app/courses/do400-4.6/pages/pr01 
