@@ -56,7 +56,7 @@ ___________________________________________________________
 ___________________________________________________________ 
 ### Udemy courses:
 ___________________________________________________________ 
-- [`Docker`](https://www.udemy.com/course/learn-docker/learn/lecture/7838182?start=15#overview)[Badge](https://cognitiveclass.ai/badges/docker-essentials/)
+- [`Docker`](https://www.udemy.com/course/learn-docker/learn/lecture/7838182?start=15#overview). [Badge](https://cognitiveclass.ai/badges/docker-essentials/)
 - [`Ansible`](https://www.udemy.com/course/learn-ansible/learn/lecture/11035270?start=0#overview)
 - [`Linux Mastery`](https://www.udemy.com/course/linux-mastery/learn/lecture/8566360?start=0#overview)
 - [`Kubernetes`](https://www.udemy.com/course/learn-kubernetes/learn/lecture/9742476?start=0#overview)
