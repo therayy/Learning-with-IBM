@@ -25,6 +25,10 @@ ___________________________________________________________
 - AIOps: https://yourlearning.ibm.com/activity/ITS-DL69808G
 - CSM - Cloud Pak for Integration: https://yourlearning.ibm.com/activity/ITS-DL69805G
 - CSM - Cloud Pak for Business Automation: https://yourlearning.ibm.com/activity/ITS-DL69804G 
+- Cloud Pak Workspace: https://dataplatform.cloud.ibm.com/home2?context=cpdaas
+- Cloud Pak Certification Program: https://w3.ibm.com/w3publisher/cloud-paks-skills-and-certification
+- Cloud Pak Certification 2: https://w3.ibm.com/w3publisher/garage-for-cloud/skills-certification
+- 
 ___________________________________________________________ 
 # Site Riabilty Engineer learning path (SRE)
 ___________________________________________________________ 
@@ -60,7 +64,15 @@ ___________________________________________________________
 ___________________________________________________________ 
 # Additional tools training.
 ___________________________________________________________ 
-
--
--
+-  Architect Certification Roadmap: https://w3.ibm.com/w3publisher/ibm-architect-profession/certification/roadmap
+-  IBM Cloud Native Toolkit Workshop: https://cloudnativetoolkit.dev/resources/workshop/workshop/
+-  DevOps architecture: https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/
+___________________________________________________________ 
+# Cloud Native ToolKit:
+___________________________________________________________ 
+-  IBM Cloud Native Toolkit Workshop: 
+        -  https://cloudnativetoolkit.dev/resources/workshop/workshop/
+        -  https://cloudnativetoolkit.dev/
+        -  https://www.coursera.org/lecture/ibm-building-cloud-native-and-multicloud/welcome-video-qMPxk
+        -  https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative
 ___________________________________________________________ 
