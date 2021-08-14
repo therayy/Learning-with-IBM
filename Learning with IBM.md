@@ -44,7 +44,7 @@ ___________________________________________________________
 - [Tekton Overview](https://tekton.dev/docs/overview/ )
 - [Build Tekton Pipeline](https://developer.ibm.com/tutorials/tekton-pipeline-deploy-a-mobile-app-backend-openshift-4/)
 - CI/CD Demo with Tekton and ArgoCD on OpenShift:
-        - [OpenShift CI/CD Demo `GitHub`](https://github.com/siamaksade/openshift-cicd-demo)
+        - [OpenShift CI/CD Demo GitHub](https://github.com/siamaksade/openshift-cicd-demo)
         - [DEMO](https://demo.openshift.com/en/latest/argocd/)
 - OpenShift CI/CD demo with Tekton and Argo CD:
         -  [OpentShift CI/CD with ArgoCD](https://github.com/siamaksade/openshift-cicd-demo)
