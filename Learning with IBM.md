@@ -69,6 +69,7 @@ ___________________________________________________________
         -  [Lab](https://cloudnativetoolkit.dev/)
         -  [Learn](https://www.coursera.org/lecture/ibm-building-cloud-native-and-multicloud/welcome-video-qMPxk)
         -  [Bootcamp](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative)
+-  [AI Cloud Native tookit](https://cloudnativetoolkit.dev/resources/workshop/ai/)
 ___________________________________________________________ 
 ### Additional tools training:
 ___________________________________________________________ 
