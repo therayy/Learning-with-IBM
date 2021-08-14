@@ -34,6 +34,7 @@ ___________________________________________________________
 - `Instana` 
     - [Documents](https://www.instana.com/docs/)
     - [Learning Path](https://www.youtube.com/playlist?list=PLcNFTiyvOH3pxwNSzTaUcMWFJKmDvVMJa)
+    - [APM](https://w3.ibm.com/w3publisher/instana/what-is-instana/what-is-apm)
 - `Turbonomic` 
     - [Turbonomic learning path](https://ec.yourlearning.ibm.com/w3/playback/10201110)
 - `AIOps`
