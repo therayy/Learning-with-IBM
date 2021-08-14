@@ -15,7 +15,7 @@ ___________________________________________________________
 - [IBM Cloud Essentials - V3](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+2020T4/course/)
 - [Introduction to Cloud](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/course/)
 - [Introduction to Containers, Kubernetes, and OpenShift](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0201EN+2020_T2/course/)
-- [Docker Essentials](A Developer Introduction: https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1/course/)
+- [Docker Essentials A Developer Introduction](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1/course/)
 - [TechZone](https://techzone.ibm.com/)
 - [IBM Technical Specialist](https://w3.ibm.com/w3publisher/ibm-technical-specialist-profession/certification)
 - [Sales Play](https://yourlearning.ibm.com/activity/PLAN-D5DBB51CEA0A)
