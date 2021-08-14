@@ -47,10 +47,10 @@ ___________________________________________________________
 - CI/CD Demo with Tekton and ArgoCD on OpenShift:
         - [OpenShift CI/CD Demo GitHub](https://github.com/siamaksade/openshift-cicd-demo)
         - [DEMO](https://demo.openshift.com/en/latest/argocd/)
-- OpenShift CI/CD demo with Tekton and Argo CD:
+- OpenShift `CI/CD` demo with Tekton and Argo CD: 
         -  [OpentShift CI/CD with ArgoCD](https://github.com/siamaksade/openshift-cicd-demo)
         -  [DEMO](https://demo.openshift.com/en/latest/gitops-with-cicd/)
-- OpenShift GitOps Demo (Tekton + Argo CD)
+- OpenShift `GitOps` Demo Tekton & Argo CD: 
         -  [Vote App with Gitops](https://github.com/blues-man/vote-app-gitops)
         -  [DEMO](https://www.youtube.com/watch?v=l0p8tLdEgt0)
 ___________________________________________________________ 
