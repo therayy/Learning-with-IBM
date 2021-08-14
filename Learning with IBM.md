@@ -1,4 +1,4 @@
-# ___________________ LEARNING WITH IBM ___________________ 
+# ___________________ [LEARNING WITH IBM] ___________________ 
 # Red Hat
 ___________________________________________________________ 
 - D0180 - learning Containers, Kubernates & Openshift https://rol.redhat.com/rol/app/courses/do180-4.5/pages/apa
@@ -28,7 +28,7 @@ ___________________________________________________________
 - Cloud Pak Workspace: https://dataplatform.cloud.ibm.com/home2?context=cpdaas
 - Cloud Pak Certification Program: https://w3.ibm.com/w3publisher/cloud-paks-skills-and-certification
 - Cloud Pak Certification 2: https://w3.ibm.com/w3publisher/garage-for-cloud/skills-certification
-- 
+- Labs: https://developer.ibm.com/openlabs/openshift
 ___________________________________________________________ 
 # Site Riabilty Engineer learning path (SRE)
 ___________________________________________________________ 
@@ -62,17 +62,20 @@ ___________________________________________________________
 - Kubernetes: https://www.udemy.com/course/learn-kubernetes/learn/lecture/9742476?start=0#overview
 - Jenkins: https://www.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/13714010?start=0#overview
 ___________________________________________________________ 
-# Additional tools training.
-___________________________________________________________ 
--  Architect Certification Roadmap: https://w3.ibm.com/w3publisher/ibm-architect-profession/certification/roadmap
--  IBM Cloud Native Toolkit Workshop: https://cloudnativetoolkit.dev/resources/workshop/workshop/
--  DevOps architecture: https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/
-___________________________________________________________ 
 # Cloud Native ToolKit:
 ___________________________________________________________ 
+-  What is Cloud Native Tookit: https://cloudnativetoolkit.dev/overview/overview/
 -  IBM Cloud Native Toolkit Workshop: 
         -  https://cloudnativetoolkit.dev/resources/workshop/workshop/
         -  https://cloudnativetoolkit.dev/
         -  https://www.coursera.org/lecture/ibm-building-cloud-native-and-multicloud/welcome-video-qMPxk
         -  https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative
 ___________________________________________________________ 
+# Additional tools training:
+- Trunk Based Development: https://trunkbaseddevelopment.com/branch-for-release/
+___________________________________________________________ 
+-  Architect Certification Roadmap: https://w3.ibm.com/w3publisher/ibm-architect-profession/certification/roadmap
+-  IBM Cloud Native Toolkit Workshop: https://cloudnativetoolkit.dev/resources/workshop/workshop/
+-  DevOps architecture: https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/
+___________________________________________________________ 
+
