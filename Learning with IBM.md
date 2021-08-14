@@ -53,6 +53,7 @@ ___________________________________________________________
     - [Turbonomic learning path](https://ec.yourlearning.ibm.com/w3/playback/10201110) ~ [Bootcamp](https://yourlearning.ibm.com/activity/IEC-10201110)
 - `AIOps`
     - [Study AIOps](https://yourlearning.ibm.com/activity/ITS-DL69808G)
+- [DevOps VS SRE](https://www.youtube.com/watch?v=KCzNd3StIoU)
 ___________________________________________________________ 
 ### Tekton
 ___________________________________________________________
@@ -85,6 +86,7 @@ ___________________________________________________________
         -  [Learn](https://www.coursera.org/lecture/ibm-building-cloud-native-and-multicloud/welcome-video-qMPxk)
         -  [Bootcamp](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative)
 - [AI Cloud Native tookit](https://cloudnativetoolkit.dev/resources/workshop/ai/)
+- [CNCF Cloud Native Landscape](https://landscape.cncf.io/)
 ___________________________________________________________ 
 ### Additional tools training:
 ___________________________________________________________ 
