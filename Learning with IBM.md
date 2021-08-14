@@ -1,15 +1,15 @@
-# __________________ [LEARNING WITH IBM] __________________ 
+# __________________ LEARNING WITH IBM __________________ 
 ### Red Hat
 ___________________________________________________________ 
 - [D0180 - learning Containers, Kubernates & Openshift](https://rol.redhat.com/rol/app/courses/do180-4.5/pages/apa)
-- D0400 - DevOps Pipelines and processes: CI/CD with Jenkins, Git, and Test-driven Development (TDD) https://rol.redhat.com/rol/app/courses/do400-4.6/
-- D0101 - Introduction to OpenShift Application. https://rol.redhat.com/rol/app/courses/do101-4.5/pages/ch04
+- [D0400 - DevOps Pipelines and processes: CI/CD with Jenkins, Git, and Test-driven Development (TDD)](https://rol.redhat.com/rol/app/courses/do400-4.6/)
+- [D0101 - Introduction to OpenShift Application](https://rol.redhat.com/rol/app/courses/do101-4.5/pages/ch04)
 ___________________________________________________________ 
 ### YourLearning
 ___________________________________________________________ 
-- DevOps Learning path for DevOps Essentials badge & Assements pass: https://yourlearning.ibm.com/activity/PLAN-2626BFDE8F8B
-- Red Hat OpenShift Container Platform Day-2 operations: https://www.ibm.com/cloud/architecture/content/course/red-hat-openshift-container-platform-day-2-ops
-- Containers and Docker: https://www.ibm.com/cloud/architecture/content/course/containers-and-docker
+- [DevOps Learning path for DevOps Essentials badge & Assements pass](https://yourlearning.ibm.com/activity/PLAN-2626BFDE8F8B)
+- [Red Hat OpenShift Container Platform Day-2 operations](https://www.ibm.com/cloud/architecture/content/course/red-hat-openshift-container-platform-day-2-ops)
+- [Containers and Docker](https://www.ibm.com/cloud/architecture/content/course/containers-and-docker)
 - Explore the Garage Methodology: https://www.ibm.com/cloud/architecture/content/course/explore-garage-methodology
 - Explore Cloud Service Management and Operations https://www.ibm.com/cloud/architecture/content/course/explore-csmo/courseEvaluation
 - IBM Cloud Essentials - V3: https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+2020T4/course/
