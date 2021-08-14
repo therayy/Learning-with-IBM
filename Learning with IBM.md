@@ -24,6 +24,7 @@ ___________________________________________________________
         - [Learning Path](https://yourlearning.ibm.com/activity/PLAN-D5DBB51CEA0A)
         - [Technology Enablement Courses - 2021](https://ibm.seismic.com/app?ContentId=98ea143b-4f0f-4193-b38c-e529d5ed267d#/doccenter/861ea1fd-99e0-44d7-9135-85412e5c28d1/doc/%252Fdde471d851-b862-be40-96cc-861dd553acbe%252FdfNTY4NmVhOWItY2RkNS04ZWY3LTZkNzItZTQwZjczMWUyMjk1%252CPT0%253D%252CQUkgQXBwbGljYXRpb25z%252Flffb086e28-88a8-4d36-ab72-ef22e23c62e4/grid/?anchorId=55459237-e021-468c-97d1-ce0bbffd2c0a)
         - [More...](https://ibm.seismic.com/app?ContentId=e592fa15-1245-4243-86b1-40f9e21c3bc5#/doccenter/5477419a-9474-4c51-94af-b442e9169fab/doc/%252Flf663332c8-a8ae-4b65-84c2-80fdfddce711/grid/)
+- [Red Hat OpenShift Container Platform Day-2 operations](https://www.ibm.com/cloud/architecture/content/course/red-hat-openshift-container-platform-day-2-ops)
 ___________________________________________________________ 
 ### Cloud Pak learning collections are now available:
 ___________________________________________________________ 
@@ -43,7 +44,7 @@ ___________________________________________________________
     - [Learning Path](https://www.youtube.com/playlist?list=PLcNFTiyvOH3pxwNSzTaUcMWFJKmDvVMJa)
     - [APM](https://w3.ibm.com/w3publisher/instana/what-is-instana/what-is-apm)
 - `Turbonomic` 
-    - [Turbonomic learning path](https://ec.yourlearning.ibm.com/w3/playback/10201110)
+    - [Turbonomic learning path](https://ec.yourlearning.ibm.com/w3/playback/10201110) ~ [Bootcamp](https://yourlearning.ibm.com/activity/IEC-10201110)
 - `AIOps`
     - [Study AIOps](https://yourlearning.ibm.com/activity/ITS-DL69808G)
 ___________________________________________________________ 
@@ -79,6 +80,7 @@ ___________________________________________________________
 -  [AI Cloud Native tookit](https://cloudnativetoolkit.dev/resources/workshop/ai/)
 -  [Cloud Pak Deployers](https://pages.github.ibm.com/CloudPakDeployer/cloud-pak-deployer/)
 -  [What is Watson AIOps](https://learn.ibm.com/mod/book/view.php?id=172616&forceview=1) ~ [Watson AIOps](https://w3.ibm.com/w3publisher/tech-devops-svcmgmt/watson-aiops)
+-  [CSM - Cloud Pak for Watson AIOps](https://learn.ibm.com/course/view.php?id=9092)
 -  [Cloud Pak for Watson AIOps](https://w3.ibm.com/w3publisher/ci_expert_labs/enablement/cloud-pak-for-watson-aiops)
 ___________________________________________________________ 
 ### Additional tools training:
@@ -89,5 +91,6 @@ ___________________________________________________________
 -  [IBM Cloud Native Toolkit Workshop](https://cloudnativetoolkit.dev/resources/workshop/workshop/)
 -  [DevOps architecture](https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/)
 -  [SonarQube](https://www.youtube.com/watch?v=31igoWxauEQ)
+-  [IBM Launcher AI Starter Kit to Deploy ML Models Faster](https://analyticsindiamag.com/ibm-launches-ai-starter-kit-to-deploy-ml-models-faster/)
 ___________________________________________________________ 
 
