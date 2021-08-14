@@ -78,12 +78,13 @@ ___________________________________________________________
         -  [Bootcamp](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative)
 -  [AI Cloud Native tookit](https://cloudnativetoolkit.dev/resources/workshop/ai/)
 -  [Cloud Pak Deployers](https://pages.github.ibm.com/CloudPakDeployer/cloud-pak-deployer/)
--  [Watson AIOps](https://w3.ibm.com/w3publisher/tech-devops-svcmgmt/watson-aiops)
+-  [What is Watson AIOps](https://learn.ibm.com/mod/book/view.php?id=172616&forceview=1) ~ [Watson AIOps](https://w3.ibm.com/w3publisher/tech-devops-svcmgmt/watson-aiops)
 -  [Cloud Pak for Watson AIOps](https://w3.ibm.com/w3publisher/ci_expert_labs/enablement/cloud-pak-for-watson-aiops)
 ___________________________________________________________ 
 ### Additional tools training:
 ___________________________________________________________ 
 -  [Trunk Based Development](https://trunkbaseddevelopment.com/branch-for-release/)
+-  [OnePipeline : Standardizing Pipelines for Shift-Left Compliance](https://pages.github.ibm.com/one-pipeline/docs/#/)
 -  [Architect Certification Roadmap](https://w3.ibm.com/w3publisher/ibm-architect-profession/certification/roadmap)
 -  [IBM Cloud Native Toolkit Workshop](https://cloudnativetoolkit.dev/resources/workshop/workshop/)
 -  [DevOps architecture](https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/)
