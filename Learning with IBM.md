@@ -98,5 +98,6 @@ ___________________________________________________________
 - [SonarQube](https://www.youtube.com/watch?v=31igoWxauEQ)
 - [IBM Launcher AI Starter Kit to Deploy ML Models Faster](https://analyticsindiamag.com/ibm-launches-ai-starter-kit-to-deploy-ml-models-faster/)
 - [3 Automation Pipelines for Kubernetes Projects](https://w3.ibm.com/w3publisher/ibmsaleszone/sales-news/all-sales-blogs/a0fd5830-f479-11eb-b51e-21c756fdba84)
+- [ModelOps](https://www.ibm.com/cloud/watson-studio/modelops?p1=Search&p4=43700055362921570&p5=e&gclid=CjwKCAjwjdOIBhA_EiwAHz8xmzicYbJK3Ahal_DOqZakmc6JgiADu67utYH4cDpOo5c5U9urMWYJ7hoCTb0QAvD_BwE&gclsrc=aw.ds)
 ___________________________________________________________ 
 
