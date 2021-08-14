@@ -10,25 +10,25 @@ ___________________________________________________________
 - [DevOps Learning path for DevOps Essentials badge & Assements pass](https://yourlearning.ibm.com/activity/PLAN-2626BFDE8F8B)
 - [Red Hat OpenShift Container Platform Day-2 operations](https://www.ibm.com/cloud/architecture/content/course/red-hat-openshift-container-platform-day-2-ops)
 - [Containers and Docker](https://www.ibm.com/cloud/architecture/content/course/containers-and-docker)
-- Explore the Garage Methodology: https://www.ibm.com/cloud/architecture/content/course/explore-garage-methodology
-- Explore Cloud Service Management and Operations https://www.ibm.com/cloud/architecture/content/course/explore-csmo/courseEvaluation
-- IBM Cloud Essentials - V3: https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+2020T4/course/
-- Introduction to Cloud: https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/course/
-- Introduction to Containers, Kubernetes, and OpenShift: https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0201EN+2020_T2/course/
-- Docker Essentials: A Developer Introduction: https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1/course/
-- TechZone: https://techzone.ibm.com/
-- IBM Technical Specialist: https://w3.ibm.com/w3publisher/ibm-technical-specialist-profession/certification
-- Sales Play: https://yourlearning.ibm.com/activity/PLAN-D5DBB51CEA0A
+- [Explore the Garage Methodology](https://www.ibm.com/cloud/architecture/content/course/explore-garage-methodology)
+- [Explore Cloud Service Management and Operations](https://www.ibm.com/cloud/architecture/content/course/explore-csmo/courseEvaluation)
+- [IBM Cloud Essentials - V3](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+2020T4/course/)
+- [Introduction to Cloud](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/course/)
+- [Introduction to Containers, Kubernetes, and OpenShift](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0201EN+2020_T2/course/)
+- [Docker Essentials](A Developer Introduction: https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1/course/)
+- [TechZone](https://techzone.ibm.com/)
+- [IBM Technical Specialist](https://w3.ibm.com/w3publisher/ibm-technical-specialist-profession/certification)
+- [Sales Play](https://yourlearning.ibm.com/activity/PLAN-D5DBB51CEA0A)
 ___________________________________________________________ 
 ### Cloud Pak learning collections are now available:
 ___________________________________________________________ 
-- AIOps: https://yourlearning.ibm.com/activity/ITS-DL69808G
-- CSM - Cloud Pak for Integration: https://yourlearning.ibm.com/activity/ITS-DL69805G
-- CSM - Cloud Pak for Business Automation: https://yourlearning.ibm.com/activity/ITS-DL69804G 
-- Cloud Pak Workspace: https://dataplatform.cloud.ibm.com/home2?context=cpdaas
-- Cloud Pak Certification Program: https://w3.ibm.com/w3publisher/cloud-paks-skills-and-certification
-- Cloud Pak Certification 2: https://w3.ibm.com/w3publisher/garage-for-cloud/skills-certification
-- Labs: https://developer.ibm.com/openlabs/openshift
+- [AIOps](https://yourlearning.ibm.com/activity/ITS-DL69808G)
+- [CSM - Cloud Pak for Integration](https://yourlearning.ibm.com/activity/ITS-DL69805G)
+- [CSM - Cloud Pak for Business Automation](https://yourlearning.ibm.com/activity/ITS-DL69804G)
+- [Cloud Pak Workspace](https://dataplatform.cloud.ibm.com/home2?context=cpdaas)
+- [Cloud Pak Certification Program](https://w3.ibm.com/w3publisher/cloud-paks-skills-and-certification)
+- [Cloud Pak Certification 2](https://w3.ibm.com/w3publisher/garage-for-cloud/skills-certification)
+- [Labs](https://developer.ibm.com/openlabs/openshift)
 ___________________________________________________________ 
 ### Site Riabilty Engineer learning path (SRE)
 ___________________________________________________________ 
