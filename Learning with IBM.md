@@ -1,11 +1,11 @@
-# ___________________ [LEARNING WITH IBM] ___________________ 
-# Red Hat
+# __________________ [LEARNING WITH IBM] __________________ 
+## Red Hat
 ___________________________________________________________ 
 - D0180 - learning Containers, Kubernates & Openshift https://rol.redhat.com/rol/app/courses/do180-4.5/pages/apa
 - D0400 - DevOps Pipelines and processes: CI/CD with Jenkins, Git, and Test-driven Development (TDD) https://rol.redhat.com/rol/app/courses/do400-4.6/
 - D0101 - Introduction to OpenShift Application. https://rol.redhat.com/rol/app/courses/do101-4.5/pages/ch04
 ___________________________________________________________ 
-# YourLearning
+## YourLearning
 ___________________________________________________________ 
 - DevOps Learning path for DevOps Essentials badge & Assements pass: https://yourlearning.ibm.com/activity/PLAN-2626BFDE8F8B
 - Red Hat OpenShift Container Platform Day-2 operations: https://www.ibm.com/cloud/architecture/content/course/red-hat-openshift-container-platform-day-2-ops
@@ -20,7 +20,7 @@ ___________________________________________________________
 - IBM Technical Specialist: https://w3.ibm.com/w3publisher/ibm-technical-specialist-profession/certification
 - Sales Play: https://yourlearning.ibm.com/activity/PLAN-D5DBB51CEA0A
 ___________________________________________________________ 
-# Cloud Pak learning collections are now available:
+## Cloud Pak learning collections are now available:
 ___________________________________________________________ 
 - AIOps: https://yourlearning.ibm.com/activity/ITS-DL69808G
 - CSM - Cloud Pak for Integration: https://yourlearning.ibm.com/activity/ITS-DL69805G
@@ -30,7 +30,7 @@ ___________________________________________________________
 - Cloud Pak Certification 2: https://w3.ibm.com/w3publisher/garage-for-cloud/skills-certification
 - Labs: https://developer.ibm.com/openlabs/openshift
 ___________________________________________________________ 
-# Site Riabilty Engineer learning path (SRE)
+## Site Riabilty Engineer learning path (SRE)
 ___________________________________________________________ 
 - Instana 
     - https://www.instana.com/docs/
@@ -40,7 +40,7 @@ ___________________________________________________________
 - AIOps
     - https://yourlearning.ibm.com/activity/ITS-DL69808G
 ___________________________________________________________ 
-
+## Tekton
 ___________________________________________________________
 - Overview: https://tekton.dev/docs/overview/ 
 - Build Tekton Pipeline: https://developer.ibm.com/tutorials/tekton-pipeline-deploy-a-mobile-app-backend-openshift-4/
@@ -54,7 +54,7 @@ ___________________________________________________________
         -  https://github.com/blues-man/vote-app-gitops
         -  https://www.youtube.com/watch?v=l0p8tLdEgt0 
 ___________________________________________________________ 
-# Udemy courses:
+## Udemy courses:
 ___________________________________________________________ 
 - Docker: https://www.udemy.com/course/learn-docker/learn/lecture/7838182?start=15#overview
 - Ansible: https://www.udemy.com/course/learn-ansible/learn/lecture/11035270?start=0#overview
@@ -62,7 +62,7 @@ ___________________________________________________________
 - Kubernetes: https://www.udemy.com/course/learn-kubernetes/learn/lecture/9742476?start=0#overview
 - Jenkins: https://www.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/13714010?start=0#overview
 ___________________________________________________________ 
-# Cloud Native ToolKit:
+## Cloud Native ToolKit:
 ___________________________________________________________ 
 -  What is Cloud Native Tookit: https://cloudnativetoolkit.dev/overview/overview/
 -  IBM Cloud Native Toolkit Workshop: 
@@ -71,7 +71,7 @@ ___________________________________________________________
         -  https://www.coursera.org/lecture/ibm-building-cloud-native-and-multicloud/welcome-video-qMPxk
         -  https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative
 ___________________________________________________________ 
-# Additional tools training:
+## Additional tools training:
 - Trunk Based Development: https://trunkbaseddevelopment.com/branch-for-release/
 ___________________________________________________________ 
 -  Architect Certification Roadmap: https://w3.ibm.com/w3publisher/ibm-architect-profession/certification/roadmap
