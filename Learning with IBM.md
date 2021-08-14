@@ -44,23 +44,6 @@ ___________________________________________________________
 - [CSM - Cloud Pak for Watson AIOps](https://learn.ibm.com/course/view.php?id=9092)
 - [Cloud Pak for Watson AIOps](https://w3.ibm.com/w3publisher/ci_expert_labs/enablement/cloud-pak-for-watson-aiops)
 ___________________________________________________________ 
-### DevSecOps
-___________________________________________________________ 
-- [DevSecOps Overview](https://ibm-gsi-ecosystem.github.io/ibm-gsi-cloudnative-journey/developer-intermediate/content-overview/) ~ [What is it?](https://www.ibm.com/cloud/learn/devops-a-complete-guide?lnk=fle#toc-what-is-de-4dfNzJn-) 
-- [Learn DevSecOps](https://www.ibm.com/cloud/learn/devsecops)
-___________________________________________________________ 
-### Site Riabilty Engineer learning path (SRE)
-___________________________________________________________ 
-- `Instana` 
-    - [Documents](https://www.instana.com/docs/)
-    - [Learning Path](https://www.youtube.com/playlist?list=PLcNFTiyvOH3pxwNSzTaUcMWFJKmDvVMJa)
-    - [APM](https://w3.ibm.com/w3publisher/instana/what-is-instana/what-is-apm)
-- `Turbonomic` 
-    - [Turbonomic learning path](https://ec.yourlearning.ibm.com/w3/playback/10201110) ~ [Bootcamp](https://yourlearning.ibm.com/activity/IEC-10201110)
-- `AIOps`
-    - [Study AIOps](https://yourlearning.ibm.com/activity/ITS-DL69808G)
-- [DevOps VS SRE](https://www.youtube.com/watch?v=KCzNd3StIoU)
-___________________________________________________________ 
 ### Tekton
 ___________________________________________________________
 - [Tekton Overview](https://tekton.dev/docs/overview/ )
@@ -95,6 +78,23 @@ ___________________________________________________________
         -  [Bootcamp](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative)
 - [AI Cloud Native tookit](https://cloudnativetoolkit.dev/resources/workshop/ai/)
 - [CNCF Cloud Native Landscape](https://landscape.cncf.io/)
+___________________________________________________________ 
+### DevSecOps
+___________________________________________________________ 
+- [DevSecOps Overview](https://ibm-gsi-ecosystem.github.io/ibm-gsi-cloudnative-journey/developer-intermediate/content-overview/) ~ [What is it?](https://www.ibm.com/cloud/learn/devops-a-complete-guide?lnk=fle#toc-what-is-de-4dfNzJn-) 
+- [Learn DevSecOps](https://www.ibm.com/cloud/learn/devsecops)
+___________________________________________________________ 
+### Site Riabilty Engineer learning path (SRE)
+___________________________________________________________ 
+- `Instana` 
+    - [Documents](https://www.instana.com/docs/)
+    - [Learning Path](https://www.youtube.com/playlist?list=PLcNFTiyvOH3pxwNSzTaUcMWFJKmDvVMJa)
+    - [APM](https://w3.ibm.com/w3publisher/instana/what-is-instana/what-is-apm)
+- `Turbonomic` 
+    - [Turbonomic learning path](https://ec.yourlearning.ibm.com/w3/playback/10201110) ~ [Bootcamp](https://yourlearning.ibm.com/activity/IEC-10201110)
+- `AIOps`
+    - [Study AIOps](https://yourlearning.ibm.com/activity/ITS-DL69808G)
+- [DevOps VS SRE](https://www.youtube.com/watch?v=KCzNd3StIoU)
 ___________________________________________________________ 
 ### Additional tools training:
 ___________________________________________________________ 
