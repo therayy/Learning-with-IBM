@@ -78,5 +78,6 @@ ___________________________________________________________
 -  [Architect Certification Roadmap](https://w3.ibm.com/w3publisher/ibm-architect-profession/certification/roadmap)
 -  [IBM Cloud Native Toolkit Workshop](https://cloudnativetoolkit.dev/resources/workshop/workshop/)
 -  [DevOps architecture](https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/)
+-  [SonarQube](https://www.youtube.com/watch?v=31igoWxauEQ)
 ___________________________________________________________ 
 
