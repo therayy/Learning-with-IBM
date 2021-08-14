@@ -31,13 +31,13 @@ ___________________________________________________________
 ___________________________________________________________ 
 ### Site Riabilty Engineer learning path (SRE)
 ___________________________________________________________ 
-- 'Instana' 
+- `Instana` 
     - [Documents](https://www.instana.com/docs/)
     - [Learning Path](https://www.youtube.com/playlist?list=PLcNFTiyvOH3pxwNSzTaUcMWFJKmDvVMJa)
-- 'Turbonomic' 
-    - https://ec.yourlearning.ibm.com/w3/playback/10201110
-- ['AIOps']
-    - (https://yourlearning.ibm.com/activity/ITS-DL69808G)
+- `Turbonomic` 
+    - [Turbonomic learning path](https://ec.yourlearning.ibm.com/w3/playback/10201110)
+- `AIOps`
+    - [Study AIOps](https://yourlearning.ibm.com/activity/ITS-DL69808G)
 ___________________________________________________________ 
 ### Tekton
 ___________________________________________________________
