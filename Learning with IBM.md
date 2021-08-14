@@ -9,6 +9,7 @@ ___________________________________________________________
 ___________________________________________________________ 
 - [Beginner Guide to Devops](https://w3.ibm.com/w3publisher/devopsjourney)
 - [DevOps Learning path for DevOps Essentials badge & Assements pass](https://yourlearning.ibm.com/activity/PLAN-2626BFDE8F8B)
+- [Enterprice Design Thinking](https://www.ibm.com/design/thinking/page/badges/core-skills#Coach)
 - [Kubernates with OpenShift](https://www.youtube.com/watch?v=9OHM4ZavY_Y)
 - [Red Hat OpenShift Container Platform Day-2 operations](https://www.ibm.com/cloud/architecture/content/course/red-hat-openshift-container-platform-day-2-ops)
 - [Containers and Docker](https://www.ibm.com/cloud/architecture/content/course/containers-and-docker)
@@ -25,6 +26,7 @@ ___________________________________________________________
         - [Technology Enablement Courses - 2021](https://ibm.seismic.com/app?ContentId=98ea143b-4f0f-4193-b38c-e529d5ed267d#/doccenter/861ea1fd-99e0-44d7-9135-85412e5c28d1/doc/%252Fdde471d851-b862-be40-96cc-861dd553acbe%252FdfNTY4NmVhOWItY2RkNS04ZWY3LTZkNzItZTQwZjczMWUyMjk1%252CPT0%253D%252CQUkgQXBwbGljYXRpb25z%252Flffb086e28-88a8-4d36-ab72-ef22e23c62e4/grid/?anchorId=55459237-e021-468c-97d1-ce0bbffd2c0a)
         - [More...](https://ibm.seismic.com/app?ContentId=e592fa15-1245-4243-86b1-40f9e21c3bc5#/doccenter/5477419a-9474-4c51-94af-b442e9169fab/doc/%252Flf663332c8-a8ae-4b65-84c2-80fdfddce711/grid/)
 - [Red Hat OpenShift Container Platform Day-2 operations](https://www.ibm.com/cloud/architecture/content/course/red-hat-openshift-container-platform-day-2-ops)
+
 ___________________________________________________________ 
 ### Cloud Pak learning collections are now available:
 ___________________________________________________________ 
@@ -92,5 +94,6 @@ ___________________________________________________________
 - [DevOps architecture](https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/)
 - [SonarQube](https://www.youtube.com/watch?v=31igoWxauEQ)
 - [IBM Launcher AI Starter Kit to Deploy ML Models Faster](https://analyticsindiamag.com/ibm-launches-ai-starter-kit-to-deploy-ml-models-faster/)
+- [3 Automation Pipelines for Kubernetes Projects](https://w3.ibm.com/w3publisher/ibmsaleszone/sales-news/all-sales-blogs/a0fd5830-f479-11eb-b51e-21c756fdba84)
 ___________________________________________________________ 
 
