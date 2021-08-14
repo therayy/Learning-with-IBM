@@ -4,6 +4,7 @@ ___________________________________________________________
 - [D0180 - learning Containers, Kubernates & Openshift](https://rol.redhat.com/rol/app/courses/do180-4.5/pages/apa)
 - [D0400 - DevOps Pipelines and processes: CI/CD with Jenkins, Git, and Test-driven Development (TDD)](https://rol.redhat.com/rol/app/courses/do400-4.6/)
 - [D0101 - Introduction to OpenShift Application](https://rol.redhat.com/rol/app/courses/do101-4.5/pages/ch04) ~ [Open Labs](https://developer.ibm.com/openlabs/openshift)
+- [DO322 - Red Hat OpenShift Installation Lab](https://rol.redhat.com/rol/app/courses/do322-4.6/pages/pr01)
 ___________________________________________________________ 
 ### YourLearning
 ___________________________________________________________ 
@@ -58,6 +59,7 @@ ___________________________________________________________
 ### Tekton
 ___________________________________________________________
 - [Tekton Overview](https://tekton.dev/docs/overview/ )
+- [Learning Path](https://blog.sebastian-daschner.com/entries/cloud-native-ci-cd-tekton-argocd-video-course)
 - [Build Tekton Pipeline](https://developer.ibm.com/tutorials/tekton-pipeline-deploy-a-mobile-app-backend-openshift-4/)
 - CI/CD Demo with Tekton and ArgoCD on OpenShift:
         - [OpenShift CI/CD Demo GitHub](https://github.com/siamaksade/openshift-cicd-demo)
@@ -76,17 +78,23 @@ ___________________________________________________________
 - [`Linux Mastery`](https://www.udemy.com/course/linux-mastery/learn/lecture/8566360?start=0#overview)
 - [`Kubernetes`](https://www.udemy.com/course/learn-kubernetes/learn/lecture/9742476?start=0#overview)
 - [`Jenkins`](https://www.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/13714010?start=0#overview)
-- [`Git`](https://learning.oreilly.com/videos/learn-git-in/9781789348231/)
+- [`Git`](https://learning.oreilly.com/videos/learn-git-in/9781789348231/) ~ [More...](https://www.atlassian.com/git/tutorials/comparing-workflows)
 ___________________________________________________________ 
 ### Cloud Native ToolKit:
 ___________________________________________________________ 
-- [What is Cloud Native Tookit](https://cloudnativetoolkit.dev/overview/overview/)
+- [What is Cloud Native Tookit](https://cloudnativetoolkit.dev/overview/overview/) ~ [Guides](https://pages.github.ibm.com/cloudpakbringup/cloudpak-guides/)
+- [Fast Start Install](https://cloudnativetoolkit.dev/setup/fast-start/)
 - IBM Cloud Native Toolkit Workshop: 
         -  [Workshop](https://cloudnativetoolkit.dev/resources/workshop/workshop/) ~ [Lab](https://cloudnativetoolkit.dev/)
         -  [Learn](https://www.coursera.org/lecture/ibm-building-cloud-native-and-multicloud/welcome-video-qMPxk)
         -  [Bootcamp](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative)
 - [AI Cloud Native tookit](https://cloudnativetoolkit.dev/resources/workshop/ai/)
 - [CNCF Cloud Native Landscape](https://landscape.cncf.io/)
+___________________________________________________________ 
+### DevSecOps
+___________________________________________________________ 
+- [DevSecOps Overview](https://ibm-gsi-ecosystem.github.io/ibm-gsi-cloudnative-journey/developer-intermediate/content-overview/) ~ [What is it?](https://www.ibm.com/cloud/learn/devops-a-complete-guide?lnk=fle#toc-what-is-de-4dfNzJn-) 
+- [Learn DevSecOps](https://www.ibm.com/cloud/learn/devsecops)
 ___________________________________________________________ 
 ### Additional tools training:
 ___________________________________________________________ 
