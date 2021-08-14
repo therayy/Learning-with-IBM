@@ -19,6 +19,7 @@ ___________________________________________________________
 - [TechZone](https://techzone.ibm.com/)
 - [IBM Technical Specialist](https://w3.ibm.com/w3publisher/ibm-technical-specialist-profession/certification)
 - [Sales Play](https://yourlearning.ibm.com/activity/PLAN-D5DBB51CEA0A)
+- [Beginner Guide to Devops](https://w3.ibm.com/w3publisher/devopsjourney)
 ___________________________________________________________ 
 ### Cloud Pak learning collections are now available:
 ___________________________________________________________ 
@@ -28,6 +29,7 @@ ___________________________________________________________
 - [Cloud Pak Certification Program](https://w3.ibm.com/w3publisher/cloud-paks-skills-and-certification)
 - [Cloud Pak Certification 2](https://w3.ibm.com/w3publisher/garage-for-cloud/skills-certification)
 - [Labs](https://developer.ibm.com/openlabs/openshift)
+- [OPEN LABS: Exploring IBM Public Cloud with VPCs](https://developer.ibm.com/openlabs/vpc)
 ___________________________________________________________ 
 ### Site Riabilty Engineer learning path (SRE)
 ___________________________________________________________ 
