@@ -59,15 +59,6 @@ ___________________________________________________________
         -  [Vote App with Gitops](https://github.com/blues-man/vote-app-gitops)
         -  [DEMO](https://www.youtube.com/watch?v=l0p8tLdEgt0)
 ___________________________________________________________ 
-### Udemy / O'Reilly Online courses 
-___________________________________________________________ 
-- [`Docker`](https://www.udemy.com/course/learn-docker/learn/lecture/7838182?start=15#overview) ~ [Badge](https://cognitiveclass.ai/badges/docker-essentials/)
-- [`Ansible`](https://www.udemy.com/course/learn-ansible/learn/lecture/11035270?start=0#overview)
-- [`Linux Mastery`](https://www.udemy.com/course/linux-mastery/learn/lecture/8566360?start=0#overview)
-- [`Kubernetes`](https://www.udemy.com/course/learn-kubernetes/learn/lecture/9742476?start=0#overview)
-- [`Jenkins`](https://www.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/13714010?start=0#overview)
-- [`Git`](https://learning.oreilly.com/videos/learn-git-in/9781789348231/) ~ [More...](https://www.atlassian.com/git/tutorials/comparing-workflows)
-___________________________________________________________ 
 ### Cloud Native ToolKit:
 ___________________________________________________________ 
 - [What is Cloud Native Tookit](https://cloudnativetoolkit.dev/overview/overview/) ~ [Guides](https://pages.github.ibm.com/cloudpakbringup/cloudpak-guides/)
@@ -95,6 +86,15 @@ ___________________________________________________________
 - `AIOps`
     - [Study AIOps](https://yourlearning.ibm.com/activity/ITS-DL69808G)
 - [DevOps VS SRE](https://www.youtube.com/watch?v=KCzNd3StIoU)
+___________________________________________________________ 
+### Udemy / O'Reilly Online courses 
+___________________________________________________________ 
+- [`Docker`](https://www.udemy.com/course/learn-docker/learn/lecture/7838182?start=15#overview) ~ [Badge](https://cognitiveclass.ai/badges/docker-essentials/)
+- [`Ansible`](https://www.udemy.com/course/learn-ansible/learn/lecture/11035270?start=0#overview)
+- [`Linux Mastery`](https://www.udemy.com/course/linux-mastery/learn/lecture/8566360?start=0#overview)
+- [`Kubernetes`](https://www.udemy.com/course/learn-kubernetes/learn/lecture/9742476?start=0#overview)
+- [`Jenkins`](https://www.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/13714010?start=0#overview)
+- [`Git`](https://learning.oreilly.com/videos/learn-git-in/9781789348231/) ~ [More...](https://www.atlassian.com/git/tutorials/comparing-workflows)
 ___________________________________________________________ 
 ### Additional tools training:
 ___________________________________________________________ 
