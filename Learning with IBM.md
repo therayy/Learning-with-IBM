@@ -44,6 +44,11 @@ ___________________________________________________________
 - [CSM - Cloud Pak for Watson AIOps](https://learn.ibm.com/course/view.php?id=9092)
 - [Cloud Pak for Watson AIOps](https://w3.ibm.com/w3publisher/ci_expert_labs/enablement/cloud-pak-for-watson-aiops)
 ___________________________________________________________ 
+### DevSecOps
+___________________________________________________________ 
+- [DevSecOps Overview](https://ibm-gsi-ecosystem.github.io/ibm-gsi-cloudnative-journey/developer-intermediate/content-overview/) ~ [What is it?](https://www.ibm.com/cloud/learn/devops-a-complete-guide?lnk=fle#toc-what-is-de-4dfNzJn-) 
+- [Learn DevSecOps](https://www.ibm.com/cloud/learn/devsecops)
+___________________________________________________________ 
 ### Site Riabilty Engineer learning path (SRE)
 ___________________________________________________________ 
 - `Instana` 
@@ -90,11 +95,6 @@ ___________________________________________________________
         -  [Bootcamp](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative)
 - [AI Cloud Native tookit](https://cloudnativetoolkit.dev/resources/workshop/ai/)
 - [CNCF Cloud Native Landscape](https://landscape.cncf.io/)
-___________________________________________________________ 
-### DevSecOps
-___________________________________________________________ 
-- [DevSecOps Overview](https://ibm-gsi-ecosystem.github.io/ibm-gsi-cloudnative-journey/developer-intermediate/content-overview/) ~ [What is it?](https://www.ibm.com/cloud/learn/devops-a-complete-guide?lnk=fle#toc-what-is-de-4dfNzJn-) 
-- [Learn DevSecOps](https://www.ibm.com/cloud/learn/devsecops)
 ___________________________________________________________ 
 ### Additional tools training:
 ___________________________________________________________ 
