@@ -43,6 +43,7 @@ ___________________________________________________________
 - [What is Watson AIOps](https://learn.ibm.com/mod/book/view.php?id=172616&forceview=1) ~ [Watson AIOps](https://w3.ibm.com/w3publisher/tech-devops-svcmgmt/watson-aiops)
 - [CSM - Cloud Pak for Watson AIOps](https://learn.ibm.com/course/view.php?id=9092)
 - [Cloud Pak for Watson AIOps](https://w3.ibm.com/w3publisher/ci_expert_labs/enablement/cloud-pak-for-watson-aiops)
+- [Watson Studio](https://www.ibm.com/cloud/watson-studio)
 ___________________________________________________________ 
 ### Tekton
 ___________________________________________________________
