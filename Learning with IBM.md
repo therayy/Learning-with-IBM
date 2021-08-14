@@ -47,34 +47,34 @@ ___________________________________________________________
         - [OpenShift CI/CD Demo `GitHub`](https://github.com/siamaksade/openshift-cicd-demo)
         - [DEMO](https://demo.openshift.com/en/latest/argocd/)
 - OpenShift CI/CD demo with Tekton and Argo CD:
-        -  https://github.com/siamaksade/openshift-cicd-demo
-        -  https://demo.openshift.com/en/latest/gitops-with-cicd/
+        -  [OpentShift CI/CD with ArgoCD](https://github.com/siamaksade/openshift-cicd-demo)
+        -  [DEMO](https://demo.openshift.com/en/latest/gitops-with-cicd/)
 - OpenShift GitOps Demo (Tekton + Argo CD)
-        -  https://github.com/blues-man/vote-app-gitops
-        -  https://www.youtube.com/watch?v=l0p8tLdEgt0 
+        -  [Vote App with Gitops](https://github.com/blues-man/vote-app-gitops)
+        -  [DEMO](https://www.youtube.com/watch?v=l0p8tLdEgt0)
 ___________________________________________________________ 
 ### Udemy courses:
 ___________________________________________________________ 
-- Docker: https://www.udemy.com/course/learn-docker/learn/lecture/7838182?start=15#overview
-- Ansible: https://www.udemy.com/course/learn-ansible/learn/lecture/11035270?start=0#overview
-- Linux Mastery: https://www.udemy.com/course/linux-mastery/learn/lecture/8566360?start=0#overview
-- Kubernetes: https://www.udemy.com/course/learn-kubernetes/learn/lecture/9742476?start=0#overview
-- Jenkins: https://www.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/13714010?start=0#overview
+- [`Docker`](https://www.udemy.com/course/learn-docker/learn/lecture/7838182?start=15#overview)
+- [`Ansible`](https://www.udemy.com/course/learn-ansible/learn/lecture/11035270?start=0#overview)
+- [`Linux Mastery`](https://www.udemy.com/course/linux-mastery/learn/lecture/8566360?start=0#overview)
+- [`Kubernetes`](https://www.udemy.com/course/learn-kubernetes/learn/lecture/9742476?start=0#overview)
+- [`Jenkins`](https://www.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/13714010?start=0#overview)
 ___________________________________________________________ 
 ### Cloud Native ToolKit:
 ___________________________________________________________ 
--  What is Cloud Native Tookit: https://cloudnativetoolkit.dev/overview/overview/
+-  [What is Cloud Native Tookit](https://cloudnativetoolkit.dev/overview/overview/)
 -  IBM Cloud Native Toolkit Workshop: 
-        -  https://cloudnativetoolkit.dev/resources/workshop/workshop/
-        -  https://cloudnativetoolkit.dev/
-        -  https://www.coursera.org/lecture/ibm-building-cloud-native-and-multicloud/welcome-video-qMPxk
-        -  https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative
+        -  [Workshop](https://cloudnativetoolkit.dev/resources/workshop/workshop/)
+        -  [Lab](https://cloudnativetoolkit.dev/)
+        -  [Learn](https://www.coursera.org/lecture/ibm-building-cloud-native-and-multicloud/welcome-video-qMPxk)
+        -  [Bootcamp](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative)
 ___________________________________________________________ 
 ### Additional tools training:
-- Trunk Based Development: https://trunkbaseddevelopment.com/branch-for-release/
 ___________________________________________________________ 
--  Architect Certification Roadmap: https://w3.ibm.com/w3publisher/ibm-architect-profession/certification/roadmap
--  IBM Cloud Native Toolkit Workshop: https://cloudnativetoolkit.dev/resources/workshop/workshop/
--  DevOps architecture: https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/
+- [Trunk Based Development](https://trunkbaseddevelopment.com/branch-for-release/)
+-  [Architect Certification Roadmap](https://w3.ibm.com/w3publisher/ibm-architect-profession/certification/roadmap)
+-  [IBM Cloud Native Toolkit Workshop](https://cloudnativetoolkit.dev/resources/workshop/workshop/)
+-  [DevOps architecture](https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/)
 ___________________________________________________________ 
 
