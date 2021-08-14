@@ -7,7 +7,9 @@ ___________________________________________________________
 ___________________________________________________________ 
 ### YourLearning
 ___________________________________________________________ 
+- [Beginner Guide to Devops](https://w3.ibm.com/w3publisher/devopsjourney)
 - [DevOps Learning path for DevOps Essentials badge & Assements pass](https://yourlearning.ibm.com/activity/PLAN-2626BFDE8F8B)
+- [Kubernates with OpenShift](https://www.youtube.com/watch?v=9OHM4ZavY_Y)
 - [Red Hat OpenShift Container Platform Day-2 operations](https://www.ibm.com/cloud/architecture/content/course/red-hat-openshift-container-platform-day-2-ops)
 - [Containers and Docker](https://www.ibm.com/cloud/architecture/content/course/containers-and-docker)
 - [Explore the Garage Methodology](https://www.ibm.com/cloud/architecture/content/course/explore-garage-methodology)
@@ -19,7 +21,6 @@ ___________________________________________________________
 - [TechZone](https://techzone.ibm.com/)
 - [IBM Technical Specialist](https://w3.ibm.com/w3publisher/ibm-technical-specialist-profession/certification)
 - [Sales Play](https://yourlearning.ibm.com/activity/PLAN-D5DBB51CEA0A)
-- [Beginner Guide to Devops](https://w3.ibm.com/w3publisher/devopsjourney)
 ___________________________________________________________ 
 ### Cloud Pak learning collections are now available:
 ___________________________________________________________ 
@@ -30,6 +31,7 @@ ___________________________________________________________
 - [Cloud Pak Certification 2](https://w3.ibm.com/w3publisher/garage-for-cloud/skills-certification)
 - [Labs](https://developer.ibm.com/openlabs/openshift)
 - [OPEN LABS: Exploring IBM Public Cloud with VPCs](https://developer.ibm.com/openlabs/vpc)
+- [Cloud Pak Playbook](https://playbook.cloudpaklab.ibm.com/cp-support/)
 ___________________________________________________________ 
 ### Site Riabilty Engineer learning path (SRE)
 ___________________________________________________________ 
