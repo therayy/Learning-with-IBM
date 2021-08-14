@@ -36,6 +36,10 @@ ___________________________________________________________
 - [Labs](https://developer.ibm.com/openlabs/openshift)
 - [OPEN LABS: Exploring IBM Public Cloud with VPCs](https://developer.ibm.com/openlabs/vpc)
 - [Cloud Pak Playbook](https://playbook.cloudpaklab.ibm.com/cp-support/)
+- [Cloud Pak Deployers](https://pages.github.ibm.com/CloudPakDeployer/cloud-pak-deployer/)
+- [What is Watson AIOps](https://learn.ibm.com/mod/book/view.php?id=172616&forceview=1) ~ [Watson AIOps](https://w3.ibm.com/w3publisher/tech-devops-svcmgmt/watson-aiops)
+- [CSM - Cloud Pak for Watson AIOps](https://learn.ibm.com/course/view.php?id=9092)
+- [Cloud Pak for Watson AIOps](https://w3.ibm.com/w3publisher/ci_expert_labs/enablement/cloud-pak-for-watson-aiops)
 ___________________________________________________________ 
 ### Site Riabilty Engineer learning path (SRE)
 ___________________________________________________________ 
@@ -72,25 +76,21 @@ ___________________________________________________________
 ___________________________________________________________ 
 ### Cloud Native ToolKit:
 ___________________________________________________________ 
--  [What is Cloud Native Tookit](https://cloudnativetoolkit.dev/overview/overview/)
--  IBM Cloud Native Toolkit Workshop: 
+- [What is Cloud Native Tookit](https://cloudnativetoolkit.dev/overview/overview/)
+- IBM Cloud Native Toolkit Workshop: 
         -  [Workshop](https://cloudnativetoolkit.dev/resources/workshop/workshop/) ~ [Lab](https://cloudnativetoolkit.dev/)
         -  [Learn](https://www.coursera.org/lecture/ibm-building-cloud-native-and-multicloud/welcome-video-qMPxk)
         -  [Bootcamp](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative)
--  [AI Cloud Native tookit](https://cloudnativetoolkit.dev/resources/workshop/ai/)
--  [Cloud Pak Deployers](https://pages.github.ibm.com/CloudPakDeployer/cloud-pak-deployer/)
--  [What is Watson AIOps](https://learn.ibm.com/mod/book/view.php?id=172616&forceview=1) ~ [Watson AIOps](https://w3.ibm.com/w3publisher/tech-devops-svcmgmt/watson-aiops)
--  [CSM - Cloud Pak for Watson AIOps](https://learn.ibm.com/course/view.php?id=9092)
--  [Cloud Pak for Watson AIOps](https://w3.ibm.com/w3publisher/ci_expert_labs/enablement/cloud-pak-for-watson-aiops)
+- [AI Cloud Native tookit](https://cloudnativetoolkit.dev/resources/workshop/ai/)
 ___________________________________________________________ 
 ### Additional tools training:
 ___________________________________________________________ 
--  [Trunk Based Development](https://trunkbaseddevelopment.com/branch-for-release/)
--  [OnePipeline : Standardizing Pipelines for Shift-Left Compliance](https://pages.github.ibm.com/one-pipeline/docs/#/)
--  [Architect Certification Roadmap](https://w3.ibm.com/w3publisher/ibm-architect-profession/certification/roadmap)
--  [IBM Cloud Native Toolkit Workshop](https://cloudnativetoolkit.dev/resources/workshop/workshop/)
--  [DevOps architecture](https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/)
--  [SonarQube](https://www.youtube.com/watch?v=31igoWxauEQ)
--  [IBM Launcher AI Starter Kit to Deploy ML Models Faster](https://analyticsindiamag.com/ibm-launches-ai-starter-kit-to-deploy-ml-models-faster/)
+- [Trunk Based Development](https://trunkbaseddevelopment.com/branch-for-release/)
+- [OnePipeline : Standardizing Pipelines for Shift-Left Compliance](https://pages.github.ibm.com/one-pipeline/docs/#/)
+- [Architect Certification Roadmap](https://w3.ibm.com/w3publisher/ibm-architect-profession/certification/roadmap)
+- [IBM Cloud Native Toolkit Workshop](https://cloudnativetoolkit.dev/resources/workshop/workshop/)
+- [DevOps architecture](https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/)
+- [SonarQube](https://www.youtube.com/watch?v=31igoWxauEQ)
+- [IBM Launcher AI Starter Kit to Deploy ML Models Faster](https://analyticsindiamag.com/ibm-launches-ai-starter-kit-to-deploy-ml-models-faster/)
 ___________________________________________________________ 
 
