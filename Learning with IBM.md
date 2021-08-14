@@ -22,7 +22,6 @@ ___________________________________________________________
 ___________________________________________________________ 
 ### Cloud Pak learning collections are now available:
 ___________________________________________________________ 
-- [AIOps](https://yourlearning.ibm.com/activity/ITS-DL69808G)
 - [CSM - Cloud Pak for Integration](https://yourlearning.ibm.com/activity/ITS-DL69805G)
 - [CSM - Cloud Pak for Business Automation](https://yourlearning.ibm.com/activity/ITS-DL69804G)
 - [Cloud Pak Workspace](https://dataplatform.cloud.ibm.com/home2?context=cpdaas)
@@ -32,13 +31,13 @@ ___________________________________________________________
 ___________________________________________________________ 
 ### Site Riabilty Engineer learning path (SRE)
 ___________________________________________________________ 
-- Instana 
-    - https://www.instana.com/docs/
-    - https://www.youtube.com/playlist?list=PLcNFTiyvOH3pxwNSzTaUcMWFJKmDvVMJa
-- Turbonomic 
+- 'Instana' 
+    - [Documents](https://www.instana.com/docs/)
+    - [Learning Path](https://www.youtube.com/playlist?list=PLcNFTiyvOH3pxwNSzTaUcMWFJKmDvVMJa)
+- 'Turbonomic' 
     - https://ec.yourlearning.ibm.com/w3/playback/10201110
-- AIOps
-    - https://yourlearning.ibm.com/activity/ITS-DL69808G
+- ['AIOps']
+    - (https://yourlearning.ibm.com/activity/ITS-DL69808G)
 ___________________________________________________________ 
 ### Tekton
 ___________________________________________________________
