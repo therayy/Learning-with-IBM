@@ -1,3 +1,4 @@
+![redhat-icon-1](https://user-images.githubusercontent.com/82475946/129469368-6fa3fb1a-df78-400e-a218-fd97c2649085.jpeg)
 # __________________ LEARNING WITH IBM __________________ 
 ### Red Hat
 ___________________________________________________________ 
