@@ -1,5 +1,5 @@
 # __________________ LEARNING WITH IBM __________________ 
-### Red Hat ![redhat-icon-1](https://user-images.githubusercontent.com/82475946/129469368-6fa3fb1a-df78-400e-a218-fd97c2649085.jpeg)
+### Red Hat ![Webp net-resizeimage](https://user-images.githubusercontent.com/82475946/129469423-a81c8e2d-1a8f-48e2-be94-416a078b667f.png)
 ___________________________________________________________ 
 - [D0180 - learning Containers, Kubernates & Openshift](https://rol.redhat.com/rol/app/courses/do180-4.5/pages/apa)
 - [D0400 - DevOps Pipelines and processes: CI/CD with Jenkins, Git, and Test-driven Development (TDD)](https://rol.redhat.com/rol/app/courses/do400-4.6/)
