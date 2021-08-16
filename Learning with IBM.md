@@ -95,7 +95,6 @@ ___________________________________________________________
 - [`Kubernetes`](https://www.udemy.com/course/learn-kubernetes/learn/lecture/9742476?start=0#overview)
 - [`Jenkins`](https://www.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/13714010?start=0#overview)
 - [`Git`](https://learning.oreilly.com/videos/learn-git-in/9781789348231/) ~ [More...](https://www.atlassian.com/git/tutorials/comparing-workflows)
-- [`hey`](google.com)
 ___________________________________________________________ 
 ### Additional tools training:
 ___________________________________________________________ 
