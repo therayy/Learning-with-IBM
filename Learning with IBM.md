@@ -11,6 +11,7 @@ ___________________________________________________________
 - [Beginner Guide to Devops](https://w3.ibm.com/w3publisher/devopsjourney)
 - [DevOps Learning path for DevOps Essentials badge & Assements pass](https://yourlearning.ibm.com/activity/PLAN-2626BFDE8F8B)
 - [Enterprice Design Thinking](https://www.ibm.com/design/thinking/page/badges/core-skills#Coach)
+- [Cloud Architecture Center](https://www.ibm.com/cloud/architecture/playbooks/activation-tech-sellers/activation-kit-intro-tech-sellers)
 - [Kubernates with OpenShift](https://www.youtube.com/watch?v=9OHM4ZavY_Y)
 - [Red Hat OpenShift Container Platform Day-2 operations](https://www.ibm.com/cloud/architecture/content/course/red-hat-openshift-container-platform-day-2-ops)
 - [Containers and Docker](https://www.ibm.com/cloud/architecture/content/course/containers-and-docker)
