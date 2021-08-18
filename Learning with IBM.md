@@ -9,6 +9,7 @@ ___________________________________________________________
 ### YourLearning
 ___________________________________________________________ 
 - [TG Cloud Native and DevOps Community of Practice Meeting](https://pages.github.ibm.com/TechnologyGarage/tg-cloud-native-devops-cop/) ~ [Notes](https://ibm.ent.box.com/notes/842365362813?s=32f3zs50n1q7enbpd16im4cgzcdpgw36) ~ [Box](https://ibm.ent.box.com/folder/142494459498?s=2yn0qx9lob6iev2jnwfl6o6del8gkvl5)
+- [Introduction to open source IBM](https://w3.ibm.com/developer/docs/open-source/)
 - [Beginner Guide to Devops](https://w3.ibm.com/w3publisher/devopsjourney)
 - [DevOps Learning path for DevOps Essentials badge & Assements pass](https://yourlearning.ibm.com/activity/PLAN-2626BFDE8F8B)
 - [Enterprice Design Thinking](https://www.ibm.com/design/thinking/page/badges/core-skills#Coach)
