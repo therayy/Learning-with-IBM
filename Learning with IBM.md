@@ -5,6 +5,14 @@ ___________________________________________________________
 - [D0400 - DevOps Pipelines and processes: CI/CD with Jenkins, Git, and Test-driven Development (TDD)](https://rol.redhat.com/rol/app/courses/do400-4.6/)
 - [D0101 - Introduction to OpenShift Application](https://rol.redhat.com/rol/app/courses/do101-4.5/pages/ch04) ~ [Open Labs](https://developer.ibm.com/openlabs/openshift)
 - [DO322 - Red Hat OpenShift Installation Lab](https://rol.redhat.com/rol/app/courses/do322-4.6/pages/pr01)
+- [RH294 - Red Hat Enterprise Linux Automation with Ansible](https://rol.redhat.com/rol/app/courses/rh294-8.4/pages/pr01)
+- [DO280 - Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster](https://rol.redhat.com/rol/app/courses/do280-4.6/pages/ch01s02)
+- [DO288 - Red Hat OpenShift Development II: Containerizing Applications](https://rol.redhat.com/rol/app/courses/do288-4.6/pages/ch01)
+- [DO295 - Containers, Kubernetes, and Red Hat OpenShift Development II](https://rol.redhat.com/rol/app/courses/do295-4.5/pages/pr01)
+- [DO425 - Red Hat Security: Securing Containers and OpenShift](https://rol.redhat.com/rol/app/courses/do425-3.11/pages/pr01)
+- [DO285 - Containers, Kubernetes, and Red Hat OpenShift Administration II](https://rol.redhat.com/rol/app/courses/do285-4.6/pages/pr01)
+- [DO322 - Red Hat OpenShift Installation Lab](https://rol.redhat.com/rol/app/courses/do322-4.6/pages/pr01)
+- [DO250 - Open Practices for your DevOps Journey](https://rol.redhat.com/rol/app/courses/do250-1.0/pages/ch01)
 ___________________________________________________________ 
 ### YourLearning
 ___________________________________________________________ 
