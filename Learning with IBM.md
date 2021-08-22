@@ -51,6 +51,7 @@ ___________________________________________________________
 - [Cloud Pak Playbook](https://playbook.cloudpaklab.ibm.com/cp-support/)
 - [Cloud Pak Deployers](https://pages.github.ibm.com/CloudPakDeployer/cloud-pak-deployer/)
 - [What is Watson AIOps](https://learn.ibm.com/mod/book/view.php?id=172616&forceview=1) ~ [Watson AIOps](https://w3.ibm.com/w3publisher/tech-devops-svcmgmt/watson-aiops)
+- [IBM Data Fabric Demo on Cloud Pak for Data 4.0](https://techzone.ibm.com/collection/ibm-data-fabric-demo-on-cloud-pak-for-data-4-0)
 - [CSM - Cloud Pak for Watson AIOps](https://learn.ibm.com/course/view.php?id=9092)
 - [Cloud Pak for Watson AIOps](https://w3.ibm.com/w3publisher/ci_expert_labs/enablement/cloud-pak-for-watson-aiops)
 - [Watson Studio](https://www.ibm.com/cloud/watson-studio)
@@ -70,6 +71,14 @@ ___________________________________________________________
         -  [Vote App with Gitops](https://github.com/blues-man/vote-app-gitops)
         -  [DEMO](https://www.youtube.com/watch?v=l0p8tLdEgt0)
 ___________________________________________________________ 
+### ROKS
+___________________________________________________________
+- [Create and share ROKS instance with team members usingCloud Native Toolkit](https://ibm.ent.box.com/v/garagetechgettingstarted/file/848670694361) 
+- [Build a cloud-native microservices application in Java, step-by-step](https://developer.ibm.com/series/cloud-native-starter/)
+- [Modernize and optimize Spring Boot applications](https://developer.ibm.com/articles/modernize-and-optimize-spring-boot-applications/?mhsrc=ibmsearch_a&mhq=springboot)
+- [Deploy a microservices app to IBM Cloud Code Engine](https://developer.ibm.com/patterns/deploy-a-microservices-app-to-ibm-cloud-code-engine/)
+
+___________________________________________________________
 ### Cloud Native ToolKit:
 ___________________________________________________________ 
 - [What is Cloud Native Tookit](https://cloudnativetoolkit.dev/overview/overview/) ~ [Guides](https://pages.github.ibm.com/cloudpakbringup/cloudpak-guides/)
@@ -119,4 +128,6 @@ ___________________________________________________________
 - [3 Automation Pipelines for Kubernetes Projects](https://w3.ibm.com/w3publisher/ibmsaleszone/sales-news/all-sales-blogs/a0fd5830-f479-11eb-b51e-21c756fdba84)
 - [ModelOps](https://www.ibm.com/cloud/watson-studio/modelops?p1=Search&p4=43700055362921570&p5=e&gclid=CjwKCAjwjdOIBhA_EiwAHz8xmzicYbJK3Ahal_DOqZakmc6JgiADu67utYH4cDpOo5c5U9urMWYJ7hoCTb0QAvD_BwE&gclsrc=aw.ds)
 - [Unit Testing](https://youtu.be/iWtxEDE1IR4)
+- [EDGE - Kubeflow](https://github.ibm.com/TechnologyGarage/tg-ibm-edge-iot-cop/tree/master/edge-kubeflow) ~ [EAM Application](https://www.ibm.com/docs/en/edge-computing/4.2?topic=overview-ieam) ~ [EDGE - IOT](https://github.ibm.com/TechnologyGarage/tg-ibm-edge-iot-cop) ~ [Install](https://github.com/dcavanau/kubeflow-mnist)
+- [Model Management System (MMS) ex_ ML Updates](https://github.com/dcavanau/img-MMS)
 ___________________________________________________________ 
