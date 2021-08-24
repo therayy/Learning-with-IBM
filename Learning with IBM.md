@@ -39,7 +39,7 @@ ___________________________________________________________
         - [More...](https://ibm.seismic.com/app?ContentId=e592fa15-1245-4243-86b1-40f9e21c3bc5#/doccenter/5477419a-9474-4c51-94af-b442e9169fab/doc/%252Flf663332c8-a8ae-4b65-84c2-80fdfddce711/grid/)
 - [Red Hat OpenShift Container Platform Day-2 operations](https://www.ibm.com/cloud/architecture/content/course/red-hat-openshift-container-platform-day-2-ops)
 ___________________________________________________________ 
-### Cloud Pak learning collections are now available:
+### Cloud Pak learning collections are now available
 ___________________________________________________________ 
 - [CSM - Cloud Pak for Integration](https://yourlearning.ibm.com/activity/ITS-DL69805G)
 - [CSM - Cloud Pak for Business Automation](https://yourlearning.ibm.com/activity/ITS-DL69804G)
@@ -131,3 +131,6 @@ ___________________________________________________________
 - [EDGE - Kubeflow](https://github.ibm.com/TechnologyGarage/tg-ibm-edge-iot-cop/tree/master/edge-kubeflow) ~ [EAM Application](https://www.ibm.com/docs/en/edge-computing/4.2?topic=overview-ieam) ~ [EDGE - IOT](https://github.ibm.com/TechnologyGarage/tg-ibm-edge-iot-cop) ~ [Install](https://github.com/dcavanau/kubeflow-mnist)
 - [Model Management System (MMS) ex_ ML Updates](https://github.com/dcavanau/img-MMS)
 ___________________________________________________________ 
+### AWS
+___________________________________________________________
+- [AWS Enablement Material](https://partnercentral.awspartner.com/) ~ [Certification](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding#certification)
