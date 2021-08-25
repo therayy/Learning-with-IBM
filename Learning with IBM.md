@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <img width="300px" src="imgs/hakuna devops no bg.png" background-image: none;>
+    <img width="300px" src="imgs/hakuna matata Devops.png">
 </p>
 
 <br>
