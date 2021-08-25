@@ -1,4 +1,11 @@
 # __________________ LEARNING WITH IBM __________________ 
+<br>
+
+<p align="center">
+    <img width="300px" src="img/redhat-logo.png">
+</p>
+
+<br>
 ### Red Hat 
 ___________________________________________________________ 
 - [D0180 - learning Containers, Kubernates & Openshift](https://rol.redhat.com/rol/app/courses/do180-4.5/pages/apa)
