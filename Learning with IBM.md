@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-    <img width="300px" src="img/redhat-logo.png">
+    <img width="300px" src="imgs/hakuna devops no bg.png">
 </p>
 
 <br>
