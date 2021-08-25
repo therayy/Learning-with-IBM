@@ -131,6 +131,7 @@ ___________________________________________________________
 - [Unit Testing](https://youtu.be/iWtxEDE1IR4)
 - [EDGE - Kubeflow](https://github.ibm.com/TechnologyGarage/tg-ibm-edge-iot-cop/tree/master/edge-kubeflow) ~ [EAM Application](https://www.ibm.com/docs/en/edge-computing/4.2?topic=overview-ieam) ~ [EDGE - IOT](https://github.ibm.com/TechnologyGarage/tg-ibm-edge-iot-cop) ~ [Install](https://github.com/dcavanau/kubeflow-mnist)
 - [Model Management System (MMS) ex_ ML Updates](https://github.com/dcavanau/img-MMS)
+- [Guided labs](https://openliberty.io/guides/)
 ___________________________________________________________ 
 ### AWS
 ___________________________________________________________
