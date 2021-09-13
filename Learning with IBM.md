@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-    <img width="400px" src="imgs/hakuna matata Devops (1).jpg">
+    <img width="400px" src="imgs/hakuna matata Devops (1) (1).jpg">
 </p>
 
 <br>
