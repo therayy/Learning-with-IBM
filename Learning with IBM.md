@@ -1,9 +1,7 @@
-# __________________ LEARNING WITH IBM __________________ 
-
 <br>
 
 <p align="center">
-    <img width="300px" src="imgs/hakuna matata Devops.png">
+    <img width="400px" src="imgs/hakuna matata Devops (1).jpg">
 </p>
 
 <br>
@@ -22,6 +20,7 @@ ___________________________________________________________
 - [DO285 - Containers, Kubernetes, and Red Hat OpenShift Administration II](https://rol.redhat.com/rol/app/courses/do285-4.6/pages/pr01)
 - [DO322 - Red Hat OpenShift Installation Lab](https://rol.redhat.com/rol/app/courses/do322-4.6/pages/pr01)
 - [DO250 - Open Practices for your DevOps Journey](https://rol.redhat.com/rol/app/courses/do250-1.0/pages/ch01)
+- [PE180 - Red Hat DO180 exam prepare](https://learning.oreilly.com/videos/red-hat-certified/9780137442058/) ~ [Notes](https://github.com/Max-Jaeger/redhat-PE180-exam-tips)
 ___________________________________________________________ 
 ### YourLearning
 ___________________________________________________________ 
@@ -40,7 +39,7 @@ ___________________________________________________________
 - [Introduction to Cloud](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/course/)
 - [Introduction to Containers, Kubernetes, and OpenShift](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0201EN+2020_T2/course/)
 - [Docker Essentials A Developer Introduction](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1/course/)
-- [TechZone](https://techzone.ibm.com/)
+- [TechZone](https://techzone.ibm.com/) ~ [Tools setup](https://cloudnativetoolkit.dev/resources/workshop/setup/)
 - [IBM Technical Specialist](https://w3.ibm.com/w3publisher/ibm-technical-specialist-profession/certification)
 - Sales Play
         - [Learning Path](https://yourlearning.ibm.com/activity/PLAN-D5DBB51CEA0A)
@@ -64,6 +63,11 @@ ___________________________________________________________
 - [CSM - Cloud Pak for Watson AIOps](https://learn.ibm.com/course/view.php?id=9092)
 - [Cloud Pak for Watson AIOps](https://w3.ibm.com/w3publisher/ci_expert_labs/enablement/cloud-pak-for-watson-aiops)
 - [Watson Studio](https://www.ibm.com/cloud/watson-studio)
+___________________________________________________________
+### Argo CD
+___________________________________________________________
+- [Argo CD](https://github.com/argoproj/argo-cd)
+- [Argo CD Pipeline video](https://www.youtube.com/playlist?list=PLHq1uqvAteVsSsrnZimHEf7NJ1MlRhQUj)
 ___________________________________________________________ 
 ### Tekton
 ___________________________________________________________
@@ -99,6 +103,10 @@ ___________________________________________________________
         -  [Bootcamp](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding/role-based-bootcamps#cloudnative)
 - [AI Cloud Native tookit](https://cloudnativetoolkit.dev/resources/workshop/ai/)
 - [CNCF Cloud Native Landscape](https://landscape.cncf.io/)
+___________________________________________________________
+### DevOps Toolchain on IBM Cloud 
+___________________________________________________________
+- [DevOps Toolchain sample project](https://www.youtube.com/watch?v=4iIUgTv4cYg)
 ___________________________________________________________ 
 ### DevSecOps
 ___________________________________________________________ 
@@ -112,7 +120,7 @@ ___________________________________________________________
     - [Learning Path](https://www.youtube.com/playlist?list=PLcNFTiyvOH3pxwNSzTaUcMWFJKmDvVMJa)
     - [APM](https://w3.ibm.com/w3publisher/instana/what-is-instana/what-is-apm)
 - `Turbonomic` 
-    - [Turbonomic learning path](https://ec.yourlearning.ibm.com/w3/playback/10201110) ~ [Bootcamp](https://yourlearning.ibm.com/activity/IEC-10201110)
+    - [Turbonomic learning path](https://ec.yourlearning.ibm.com/w3/playback/10201110) ~ [Bootcamp](https://yourlearning.ibm.com/activity/IEC-10201110) ~ [Learn site](https://www.turbonomic.com/education/)
 - `AIOps`
     - [Study AIOps](https://yourlearning.ibm.com/activity/ITS-DL69808G)
 - [DevOps VS SRE](https://www.youtube.com/watch?v=KCzNd3StIoU)
