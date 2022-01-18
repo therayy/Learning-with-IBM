@@ -153,3 +153,8 @@ ___________________________________________________________
 ### AWS
 ___________________________________________________________
 - [AWS Enablement Material](https://partnercentral.awspartner.com/) ~ [Certification](https://w3.ibm.com/w3publisher/s1-technology-garage/onboarding#certification)
+
+___________________________________________________________
+
+### Git-Ops
+- [GitOps documentation](https://github.ibm.com/client-engineering-devops/general-admin/blob/gitops/tips/gitops/README.md)
